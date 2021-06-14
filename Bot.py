@@ -1,3 +1,7 @@
+#https://github.com/Whoneon/TelegramVoice2Pi
+#feel free to use, improve or edit my code! 
+# - Whoneon
+
 import sys
 import time
 import random
