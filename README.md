@@ -5,8 +5,10 @@ This is a simple program that uses Telegram Bot API to receive text messages fro
 ## REQUIREMENTS:
 - Telegram with @BotFather (just start a conversation with it, generate a new bot and write down the token which is in the form of `XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`)
 - Python 3 with pip
+- Git
+
 ```
-sudo apt install python3.8 python3-pip
+sudo apt install python3.8 python3-pip git
 ```
 - PYTTSX3 and TELEPOT
 ```
