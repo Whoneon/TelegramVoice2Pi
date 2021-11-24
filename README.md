@@ -6,13 +6,13 @@ This is a simple program that uses Telegram Bot API to receive text messages fro
 - Telegram with @BotFather (just start a conversation with it, generate a new bot and write down the token which is in the form of `XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`)
 - Python 3 with pip
 - Git
-
+- Libespeak1 and Espeak (to play voice from the speaker)
 ```
-sudo apt install python3.8 python3-pip git
+sudo apt install python3.8 python3-pip git libespeak1 espeak
 ```
 - PYTTSX3 and TELEPOT
 ```
-pip install pyttsx3 telepot
+pip3 install pyttsx3 telepot
 ```
 Once you have met the requirements above, just type the following:
 ```
