@@ -7,6 +7,7 @@ This is a simple program that uses Telegram Bot API to receive text messages fro
 - Python 3 with pip
 - Git
 - Libespeak1 and Espeak (to play voice from the speaker)
+- Suggested use of venv (it might cause conflicts with pip packages)
 ```
 sudo apt install python3.8 python3-pip git libespeak1 espeak
 ```
